@@ -8,6 +8,8 @@ Style : Shadcn, tailwind-CSS
 
 API 통신 : Rest API
 
+기능 : CRUD
+
 ==============================================================
 
 # 커밋 규칙
@@ -21,3 +23,5 @@ API 통신 : Rest API
 [Fix] : 버그 수정
 
 [Docs] : 문서 수정
+
+[Stlye] : UI 개발
