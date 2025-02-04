@@ -29,7 +29,7 @@ export default function Home() {
       <div className="flex justify-between items-center mb-8">
         <h1 className="text-3xl font-bold">나의 일기장</h1>
         <Button onClick={() => (window.location.href = "/write")}>
-          <Plus className="mr-2 h-4 w-4" /> 새 일기 쓰기
+          <Plus className="mr-2 h-4 w-4" /> 일기 쓰기
         </Button>
       </div>
       <DiaryList entries={entries} isLoading={isLoading} />
